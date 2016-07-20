@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+      <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+        <TitledBorder title="Comandante">
+          <Font PropertyName="font" name="Dialog" size="18" style="0"/>
+        </TitledBorder>
+      </Border>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="funcaojLabel" min="-2" max="-2" attributes="0"/>
+                  <Component id="nomejLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="cpfjLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="rgjLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="nascimentojLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="telefonejLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="sexojLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="ruajLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="bairrojLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="cepjLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="estadojLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="telEmergenciajLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="cidadejLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="numerojLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="complementojLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="registrojLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="cadastrarjButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="limparjButton" min="-2" pref="92" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="rgjTextField" alignment="1" pref="694" max="32767" attributes="0"/>
+                  <Component id="nascimentojTextField" alignment="1" max="32767" attributes="0"/>
+                  <Component id="telefonejTextField" alignment="1" max="32767" attributes="0"/>
+                  <Component id="sexojTextField" alignment="1" max="32767" attributes="0"/>
+                  <Component id="ruajTextField" alignment="1" max="32767" attributes="0"/>
+                  <Component id="bairrojTextField" alignment="1" max="32767" attributes="0"/>
+                  <Component id="cepjTextField" alignment="1" max="32767" attributes="0"/>
+                  <Component id="estadojTextField" alignment="1" max="32767" attributes="0"/>
+                  <Component id="telEmergenciajTextField" alignment="0" max="32767" attributes="0"/>
+                  <Component id="cidadejTextField" alignment="0" max="32767" attributes="0"/>
+                  <Component id="numerojTextField" alignment="0" max="32767" attributes="0"/>
+                  <Component id="complementojTextField" alignment="0" max="32767" attributes="0"/>
+                  <Component id="registrojTextField" max="32767" attributes="0"/>
+                  <Component id="funcaojTextField" max="32767" attributes="0"/>
+                  <Component id="cpfjTextField" alignment="0" max="32767" attributes="0"/>
+                  <Component id="nomejTextField" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nomejTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nomejLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cpfjTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cpfjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rgjTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rgjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nascimentojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nascimentojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="telefonejTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="telefonejLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="telEmergenciajTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="telEmergenciajLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="sexojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sexojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ruajTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ruajLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="bairrojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bairrojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cepjTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cepjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="estadojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="estadojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cidadejTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cidadejLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="numerojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="numerojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="complementojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="complementojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="registrojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="registrojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="funcaojTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="funcaojLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="cadastrarjButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="limparjButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="38" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="nomejTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cpfjTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="rgjTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nascimentojTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="telefonejTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="telEmergenciajTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="sexojTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ruajTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="bairrojTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cepjTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="estadojTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cidadejTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="numerojTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="complementojTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="registrojTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="nomejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nome:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cpfjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CPF:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rgjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="RG:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="nascimentojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nascimento:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="telefonejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telefone:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="telEmergenciajLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tel. Emerg&#xea;ncia:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="sexojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sexo:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ruajLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rua:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="bairrojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bairro:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cepjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CEP:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="estadojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Estado:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cidadejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cidade:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="numerojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N&#xfa;mero:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="complementojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Complemento:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="registrojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Registro:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="cadastrarjButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cadastrar"/>
+        <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[100, 30]"/>
+        </Property>
+        <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[100, 30]"/>
+        </Property>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[100, 30]"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cadastrarjButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="limparjButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Limpar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="limparjButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="funcaojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fun&#xe7;&#xe3;o:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="funcaojTextField">
+    </Component>
+  </SubComponents>
+</Form>
